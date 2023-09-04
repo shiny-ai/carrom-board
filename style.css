@@ -1,0 +1,99 @@
+.sq{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    background-color:burlywood;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.line1{
+    height: 20px;
+    width: 300px;
+    position: absolute;
+    background-color: black;
+    margin-left: 0px;
+    margin-top: 0px;
+
+}
+.line2{
+    height: 20px;
+    width: 300px;
+    position: absolute;
+    background-color:black;
+    margin-left: 0px;
+    margin-top: 280px;
+
+}
+.line3{
+    height: 300px;
+    width: 20px;
+    position: absolute;
+    background-color:black;
+    margin-left: 0px;
+    margin-top: 0px;
+
+}
+.line4{
+    height: 300px;
+    width: 20px;
+    position: absolute;
+    background-color:black;
+    margin-left: 280px;
+    margin-top: 0px;
+
+}
+.round{
+    height: 60px;
+    width: 60px;
+    border-radius: 60px;
+    background-color: maroon;
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 120px;
+}
+.circle1{
+    height: 25px;
+    width: 25px;
+    border-radius: 25px;
+    background-color: brown;
+    position: absolute;
+    margin-left: 16px;
+    margin-top: 17px;
+}
+.circle2{
+    height: 25px;
+    width: 25px;
+    border-radius: 25px;
+    background-color: brown;
+    position: absolute;
+    margin-left:260px;
+    margin-top: 17px;
+}
+.circle3{
+    height: 25px;
+    width: 25px;
+    border-radius: 25px;
+    background-color: brown;
+    position: absolute;
+    margin-left:260px;
+    margin-top: 258px;
+}
+.circle4{
+    height: 25px;
+    width: 25px;
+    border-radius: 25px;
+    background-color: brown;
+    position: absolute;
+    margin-left:15px;
+    margin-top: 258px;
+}
+/*.l1{
+    height: 2px;
+    width: 300px;
+    position: absolute;
+    background-color: pink;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin
+ 
+}
